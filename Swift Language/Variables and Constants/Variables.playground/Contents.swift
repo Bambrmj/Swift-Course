@@ -14,8 +14,13 @@ var y : Float = 4.9
 y = 3
 
 var z : Double = 2.674365437289
-
 lastName = "Ali"
-
-
 print(middleName + " " + lastName); print(z)
+
+
+let tax = 0.05
+
+let age :Int
+age = 22
+
+let nationality:String = "Saudi"
