@@ -33,3 +33,17 @@ let hasPhone : Bool
 hasPhone = true
 
 print(hasPhone)
+
+
+
+// Summary
+var name = "Saleh" , carName = "BMW"
+var price : Int = 1
+price = 12
+
+var minPrice = 11.5
+
+let cityName : String
+cityName = "Riyadh"
+
+print(cityName + " " + carName)
