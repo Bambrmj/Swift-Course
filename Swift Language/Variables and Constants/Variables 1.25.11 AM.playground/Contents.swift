@@ -1,5 +1,5 @@
-
-var firstName = "Abdullah"
+// Variables
+var firstName = "Abdullah", secondName = "Sami"
 firstName = "Omar"
 
 var middleName : String
@@ -17,10 +17,19 @@ var z : Double = 2.674365437289
 lastName = "Ali"
 print(middleName + " " + lastName); print(z)
 
+var hasCar = true
+hasCar = false
 
-let tax = 0.05
+var hasHouse : Bool
+hasHouse = true
 
-let age :Int
-age = 22
 
-let nationality:String = "Saudi"
+// Constants
+let age = 20
+
+let tax : Float = 0.05
+
+let hasPhone : Bool
+hasPhone = true
+
+print(hasPhone)
