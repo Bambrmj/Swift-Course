@@ -15,6 +15,3 @@ countries.remove(at: 3)
 print("array after delete \(countries)")
 print(countries.count)
 print(countries[5])
-
-
-
