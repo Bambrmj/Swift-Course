@@ -6,12 +6,14 @@ var z = x + Int(y)
 
 var a = 10, b = 3, c = 5
 print("a + b = \(a+b)")
-print("a + b = \(a*b)")
-print("a + b = \(a-b)")
-print("a + b = \(a/b)")
+print("a * b = \(a*b)")
+print("a - b = \(a-b)")
+print("a / b = \(a/b)")
 print("a % b = \(a%b)")
 
 print((a+b)*c)
+
+// Priority in mathematical operations ()  */  +-
 
 a = a + 1
 a += 2
