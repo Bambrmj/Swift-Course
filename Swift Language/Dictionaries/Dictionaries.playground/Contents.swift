@@ -15,3 +15,6 @@ print("dict after update value \(product)")
 product.removeValue(forKey: "color")
 print("dict after delete value \(product)")
 print("dict count = \(product.count)")
+
+
+
